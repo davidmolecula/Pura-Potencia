@@ -1,0 +1,11 @@
+{
+  "name": "pura-potencia",
+  "version": "1.0.0",
+  "description": "Primera version de la pagina pura potencia",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David davidmolecula@gmail.com",
+  "license": "ISC"
+}
